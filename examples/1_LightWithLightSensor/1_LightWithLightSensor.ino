@@ -10,7 +10,7 @@ void setup() {
 }
 
 void loop() {
-  // waarden in de variabele brightnessValue opslaan
+  // waarden van de licht sensor in de variabele brightnessValue opslaan
   int brightnessValue = lichtSensor.read();
 
   // veranderd de lichtintensiteit van de led
