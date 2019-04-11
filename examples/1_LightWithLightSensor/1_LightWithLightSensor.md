@@ -1,4 +1,4 @@
-## Example One
+## Light With Light Sensor - Example One 
  
 ### Lampje laten branden
 
